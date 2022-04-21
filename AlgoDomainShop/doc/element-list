@@ -1,0 +1,6 @@
+com.example.algodomainshop
+com.example.algodomainshop.controller
+com.example.algodomainshop.dto
+com.example.algodomainshop.model
+com.example.algodomainshop.repo
+com.example.algodomainshop.service

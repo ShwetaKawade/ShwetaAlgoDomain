@@ -1,0 +1,1 @@
+packageSearchIndex = [{"l":"All Packages","u":"allpackages-index.html"},{"l":"com.example.algodomainshop"},{"l":"com.example.algodomainshop.controller"},{"l":"com.example.algodomainshop.dto"},{"l":"com.example.algodomainshop.model"},{"l":"com.example.algodomainshop.repo"},{"l":"com.example.algodomainshop.service"}];updateSearchResults();
